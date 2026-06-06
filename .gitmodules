@@ -1,0 +1,3 @@
+[submodule "back"]
+	path = back
+	url = git@github.com:Iromero15/AssetCentral-back.git
