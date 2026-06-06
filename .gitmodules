@@ -1,3 +1,6 @@
 [submodule "back"]
 	path = back
 	url = git@github.com:Iromero15/AssetCentral-back.git
+[submodule "front"]
+	path = front
+	url = git@github.com:Iromero15/AssetCentral-front.git
