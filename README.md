@@ -3,6 +3,8 @@
 **AssetCentral** es una plataforma de gestión de activos financieros personales para el mercado argentino. Consolida en un solo lugar las posiciones de múltiples brokers y exchanges, mostrando el portfolio unificado en tiempo real.
 
 **Demo en vivo:** [assetcentral.com.ar](https://assetcentral.com.ar)
+**Informe breve** Informe_Hackathon2026.pdf 
+**Informe extendido** Informe_Extendido_Hackathon_2026.pdf
 
 ---
 
