@@ -8,6 +8,12 @@
 
 ---
 
+## Usuarios y Vinculación
+
+Recomendamos usar el siguiente usuario demo: martin.garcia@hackaton.dev con la contraseña Hack2025!. También se puede crear su propio usuario y conectar sus cuentas de IOL, Binance y Banco Nación (via Prometeo). En Banco Nación está disponible unicamente el siguiente usuario de prueba: 12345 con la contraseña gfdsa. 
+
+---
+
 ## ¿Qué hace?
 
 - **Dashboard unificado** — valuación total del portfolio en ARS y USD, distribución por tipo de activo (treemap + torta), variación diaria y mensual.
