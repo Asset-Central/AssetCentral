@@ -53,7 +53,7 @@ Frontend (Lit/TS)
       ↓ HTTP
 FastAPI Backend  ←→  Supabase (auth + datos)
       ↓
-  Connectors: Cocos · IOL · MercadoPago · Nación · Binance
+  Connectors: IOL  · Nación · Binance
       ↓
   MCP Server (fastapi-mcp)  ←  agentes de IA
 ```
@@ -62,4 +62,4 @@ FastAPI Backend  ←→  Supabase (auth + datos)
 
 ## Equipo
 
-Hackathon 2026 — [Asset-Central](https://github.com/Asset-Central)
+Nicolas Formichelli, Ignacio Romero, Bautista de Suto Nagy, Silvano Picard — [Asset-Central](https://github.com/Asset-Central)
