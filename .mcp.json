@@ -6,10 +6,7 @@
     },
     "assetcentral": {
       "type": "http",
-      "url": "https://assetcentral-back-production.up.railway.app/mcp",
-      "headers": {
-        "Authorization": "Bearer eyJhbGciOiJFUzI1NiIsImtpZCI6IjNmZjBhNGY2LWU1ZGYtNDNmNC1hZjg0LWI3MzZmM2RmZTI4NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL2dlcWx0bnB4eWRocHd5c2FwZXh6LnN1cGFiYXNlLmNvL2F1dGgvdjEiLCJzdWIiOiI1NjA2MzVkOC0yNTQzLTRhZDItOTJiZi0xMjFiNTFjN2U5MmQiLCJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNzgwODE2NzQyLCJpYXQiOjE3ODA4MTMxNDIsImVtYWlsIjoibGF1cmEuZmVybmFuZGV6QGhhY2thdG9uLmRldiIsInBob25lIjoiIiwiYXBwX21ldGFkYXRhIjp7InByb3ZpZGVyIjoiZW1haWwiLCJwcm92aWRlcnMiOlsiZW1haWwiXX0sInVzZXJfbWV0YWRhdGEiOnsiYXBlbGxpZG8iOiJGZXJuw6FuZGV6IiwiZG5pIjoiMzE5ODc2NTQiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiZnVsbF9uYW1lIjoiTGF1cmEgRmVybsOhbmRleiIsIm5vbWJyZSI6IkxhdXJhIn0sInJvbGUiOiJhdXRoZW50aWNhdGVkIiwiYWFsIjoiYWFsMSIsImFtciI6W3sibWV0aG9kIjoicGFzc3dvcmQiLCJ0aW1lc3RhbXAiOjE3ODA4MTMxNDJ9XSwic2Vzc2lvbl9pZCI6ImQ4N2E2MDM2LTk0YjMtNDYzYi1iNTBiLTA4OGE1NTNlYTE0OCIsImlzX2Fub255bW91cyI6ZmFsc2V9.2zZdFdR9uXTiEz2LyoeH2cJxFK63KUtMDxJhMqnL61WaU3Us0OX_swnSe5fcwKus3_qXoe5x0eWNDqOa-QUhLA"
-      }
+      "url": "https://assetcentral-back-production.up.railway.app/mcp"
     }
   }
 }
